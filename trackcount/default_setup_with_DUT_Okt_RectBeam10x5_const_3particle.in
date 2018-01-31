@@ -126,7 +126,7 @@
 
 /allpix/eutelescope/write 1
 /allpix/eutelescope/setFolderPath /work1/tbisanz/allpix/output/
-/allpix/eutelescope/runnumber 1001
+/allpix/eutelescope/runnumber 1003
 
 ####################################################################
 # Source GPS
@@ -151,5 +151,5 @@
 ####################################################################
 # Shoot
 /allpix/beam/frames 250000
-/allpix/beam/type const 1 
+/allpix/beam/type const 3 
 /allpix/beam/on
