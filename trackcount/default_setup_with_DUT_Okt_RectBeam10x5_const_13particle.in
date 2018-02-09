@@ -126,7 +126,7 @@
 
 /allpix/eutelescope/write 1
 /allpix/eutelescope/setFolderPath /work1/tbisanz/allpix/output/
-/allpix/eutelescope/runnumber 101333####################################################################
+/allpix/eutelescope/runnumber 1013
 # Source GPS
 /gps/particle e-
 /gps/pos/type Plane
